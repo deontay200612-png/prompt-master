@@ -21,5 +21,3 @@ From a shell:
 ```bash
 claude plugin install prompt-master --marketplace deontay200612-png/prompt-master
 ```
-
-This repository is private: installing needs a GitHub credential on your machine (an SSH key, or `gh auth login` then `gh auth setup-git`).
